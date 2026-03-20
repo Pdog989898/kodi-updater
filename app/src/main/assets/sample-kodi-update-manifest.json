@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "path": "userdata/advancedsettings.xml",
+      "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/updates/userdata/advancedsettings.xml",
+      "sha256": "PUT_SHA256_HASH_HERE",
+      "targetRelativePath": "userdata/advancedsettings.xml"
+    }
+  ]
+}
