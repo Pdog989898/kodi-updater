@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kodi Updater</string>
+    <string name="checking_for_updates">Checking for updates.</string>
+    <string name="choose_kodi_folder">Choose Kodi folder</string>
+    <string name="set_folder">Set Kodi Folder</string>
+</resources>
